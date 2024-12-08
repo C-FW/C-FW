@@ -1,3 +1,5 @@
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZ1VqohYJKwYBBAHaRw8BAQdA0bAi+8noF19lAeyLbjKmhV/K/RvG1KmJt26+
@@ -12,9 +14,11 @@ AQCDHRbm3eMHvLhDZu9kep/OiUx7gkqTKek+q3Dsjy4VBA==
 =xyRR
 
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
-
+```
 mail:     c-fw[at]tutanota[.]com
 jabber:   cfw[at]5222[.]de
 signal:   signal[.]me[/]#eu[/]R3b0MvxJyA19xrE9aM60mBvZixd2PU6YGqgSIdWweFRaPZd_ilBFjrFZ02PCklWZ
 briar:    briar[:][/][/]adinuiabdpmgfnfhf6zoghe6mmutl323jm6u6wqtyzz6nf2n2hoss
+```
